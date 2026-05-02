@@ -7,8 +7,8 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "OracleTeam"
 name = "BringBackRedSand"
-description = "Brings back blood red sands to the shore."
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+description = "Brings back blood-red sand from the Mesa udpate to red beach shores."
+websiteUrl = "https://github.com/MiiMii1205/BringBackRedSand"
 containsNsfwContent = false
 
 [package.dependencies]

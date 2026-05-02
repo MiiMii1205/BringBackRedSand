@@ -1,6 +1,6 @@
 # Bring Back Red Sand #
 
-This small cosmetic mod changes the "Red Beach" shore material to bring back the blood red sand bug from the Mesa Update.
+This small cosmetic mod changes the "Red Beach" shore material to bring back the blood-red sand bug from the Mesa Update.
 
 ## Notice ##
 
