@@ -1,4 +1,7 @@
 # Bring Back Red Sand #
+[![Thunderstore Version](https://img.shields.io/thunderstore/v/OracleTeam/BringBackRedSand?style=for-the-badge)](https://thunderstore.io/c/peak/p/OracleTeam/BringBackRedSand/)
+[![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/OracleTeam/BringBackRedSand?style=for-the-badge)](https://thunderstore.io/c/peak/p/OracleTeam/BringBackRedSand/)
+[![Thunderstore Likes](https://img.shields.io/thunderstore/likes/OracleTeam/BringBackRedSand?style=for-the-badge)](https://thunderstore.io/c/peak/p/OracleTeam/BringBackRedSand/)
 
 This small cosmetic mod changes the "Red Beach" shore material to bring back the blood-red sand bug from the Mesa Update.
 
